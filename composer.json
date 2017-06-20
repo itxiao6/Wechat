@@ -1,0 +1,30 @@
+{
+    "name": "thenbsp/wechat",
+    "description": "微信公众平台第三方 SDK 开发包，优雅、健壮，可扩展，遵循 PSR 开发规范。",
+    "keywords": ["wechat", "weixin", "微信", "微信 SDK", "微信支付", "微信开发", "自定义菜单"],
+    "homepage": "http://github.com/thenbsp/wechat",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thenbsp",
+            "email": "thenbsp@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "^6.1",
+        "doctrine/cache": "^1.6",
+        "doctrine/collections": "^1.3",
+        "symfony/serializer": "^3.0",
+        "symfony/options-resolver": "^3.0",
+        "symfony/property-access": "^3.0",
+        "symfony/http-foundation": "^3.0"
+    },
+    "require-dev": {
+        "monolog/monolog": "^1.17"
+    },
+    "autoload": {
+        "psr-4": { "Thenbsp\\Wechat\\": "./src" }
+    },
+    "minimum-stability": "dev"
+}
