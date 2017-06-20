@@ -1,8 +1,8 @@
 <?php
 
-namespace Thenbsp\Wechat\Event;
+namespace Itxiao6\Wechat\Event;
 
-use Thenbsp\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Bridge\Serializer;
 use Symfony\Component\HttpFoundation\Request;
 
 class EventHandler implements EventHandlerInterface

@@ -1,8 +1,8 @@
 <?php
 
-namespace Thenbsp\Wechat\Bridge;
+namespace Itxiao6\Wechat\Bridge;
 
-use Thenbsp\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Bridge\Serializer;
 use Symfony\Component\HttpFoundation\Response;
 
 class XmlResponse extends Response

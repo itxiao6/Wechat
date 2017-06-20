@@ -1,9 +1,9 @@
 <?php
 
-namespace Thenbsp\Wechat\OAuth;
+namespace Itxiao6\Wechat\OAuth;
 
-use Thenbsp\Wechat\Bridge\Util;
-use Thenbsp\Wechat\Bridge\Http;
+use Itxiao6\Wechat\Bridge\Util;
+use Itxiao6\Wechat\Bridge\Http;
 
 abstract class AbstractClient
 {

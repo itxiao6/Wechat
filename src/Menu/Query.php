@@ -1,9 +1,9 @@
 <?php
 
-namespace Thenbsp\Wechat\Menu;
+namespace Itxiao6\Wechat\Menu;
 
-use Thenbsp\Wechat\Bridge\Http;
-use Thenbsp\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Bridge\Http;
+use Itxiao6\Wechat\Wechat\AccessToken;
 
 class Query
 {

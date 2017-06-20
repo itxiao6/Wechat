@@ -1,10 +1,10 @@
 <?php
 
-namespace Thenbsp\Wechat\Bridge;
+namespace Itxiao6\Wechat\Bridge;
 
 use GuzzleHttp\Client;
-use Thenbsp\Wechat\Bridge\Serializer;
-use Thenbsp\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Wechat\AccessToken;
 use Doctrine\Common\Collections\ArrayCollection;
 
 class Http

@@ -1,6 +1,6 @@
 <?php
 
-namespace Thenbsp\Wechat\Message\Template;
+namespace Itxiao6\Wechat\Message\Template;
 
 interface TemplateInterface
 {

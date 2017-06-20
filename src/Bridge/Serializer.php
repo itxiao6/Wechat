@@ -1,6 +1,6 @@
 <?php
 
-namespace Thenbsp\Wechat\Bridge;
+namespace Itxiao6\Wechat\Bridge;
 
 use Symfony\Component\Serializer\Encoder\XmlEncoder;
 use Symfony\Component\Serializer\Encoder\JsonEncoder;

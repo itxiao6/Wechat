@@ -1,6 +1,6 @@
 <?php
 
-namespace Thenbsp\Wechat\Menu;
+namespace Itxiao6\Wechat\Menu;
 
 class ButtonCollection implements ButtonInterface, ButtonCollectionInterface
 {

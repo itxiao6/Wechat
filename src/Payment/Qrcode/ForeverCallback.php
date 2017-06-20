@@ -1,11 +1,11 @@
 <?php
 
-namespace Thenbsp\Wechat\Payment\Qrcode;
+namespace Itxiao6\Wechat\Payment\Qrcode;
 
-use Thenbsp\Wechat\Bridge\Util;
-use Thenbsp\Wechat\Bridge\Serializer;
-use Thenbsp\Wechat\Bridge\XmlResponse;
-use Thenbsp\Wechat\Payment\Unifiedorder;
+use Itxiao6\Wechat\Bridge\Util;
+use Itxiao6\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Bridge\XmlResponse;
+use Itxiao6\Wechat\Payment\Unifiedorder;
 use Symfony\Component\HttpFoundation\Request;
 use Doctrine\Common\Collections\ArrayCollection;
 

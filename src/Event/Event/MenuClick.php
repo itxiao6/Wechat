@@ -1,8 +1,8 @@
 <?php
 
-namespace Thenbsp\Wechat\Event\Event;
+namespace Itxiao6\Wechat\Event\Event;
 
-use Thenbsp\Wechat\Event\Event;
+use Itxiao6\Wechat\Event\Event;
 
 class MenuClick extends Event
 {

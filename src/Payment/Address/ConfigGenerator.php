@@ -1,10 +1,10 @@
 <?php
 
-namespace Thenbsp\Wechat\Payment\Address;
+namespace Itxiao6\Wechat\Payment\Address;
 
-use Thenbsp\Wechat\Bridge\Util;
-use Thenbsp\Wechat\Bridge\Serializer;
-use Thenbsp\Wechat\OAuth\AccessToken;
+use Itxiao6\Wechat\Bridge\Util;
+use Itxiao6\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\OAuth\AccessToken;
 
 class ConfigGenerator
 {

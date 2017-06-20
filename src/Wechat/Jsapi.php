@@ -1,12 +1,12 @@
 <?php
 
-namespace Thenbsp\Wechat\Wechat;
+namespace Itxiao6\Wechat\Wechat;
 
-use Thenbsp\Wechat\Bridge\Util;
-use Thenbsp\Wechat\Bridge\CacheTrait;
-use Thenbsp\Wechat\Bridge\Serializer;
-use Thenbsp\Wechat\Wechat\Jsapi\Ticket;
-use Thenbsp\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Bridge\Util;
+use Itxiao6\Wechat\Bridge\CacheTrait;
+use Itxiao6\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Wechat\Jsapi\Ticket;
+use Itxiao6\Wechat\Wechat\AccessToken;
 
 class Jsapi
 {

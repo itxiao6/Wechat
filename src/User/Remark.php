@@ -1,9 +1,9 @@
 <?php
 
-namespace Thenbsp\Wechat\User;
+namespace Itxiao6\Wechat\User;
 
-use Thenbsp\Wechat\Bridge\Http;
-use Thenbsp\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Bridge\Http;
+use Itxiao6\Wechat\Wechat\AccessToken;
 
 class Remark
 {

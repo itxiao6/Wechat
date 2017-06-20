@@ -1,10 +1,10 @@
 <?php
 
-namespace Thenbsp\Wechat\Wechat;
+namespace Itxiao6\Wechat\Wechat;
 
-use Thenbsp\Wechat\Bridge\CacheTrait;
-use Thenbsp\Wechat\Wechat\AccessToken;
-use Thenbsp\Wechat\Wechat\Qrcode\Ticket;
+use Itxiao6\Wechat\Bridge\CacheTrait;
+use Itxiao6\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Wechat\Qrcode\Ticket;
 
 class Qrcode
 {

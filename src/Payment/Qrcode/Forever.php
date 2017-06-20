@@ -1,8 +1,8 @@
 <?php
 
-namespace Thenbsp\Wechat\Payment\Qrcode;
+namespace Itxiao6\Wechat\Payment\Qrcode;
 
-use Thenbsp\Wechat\Bridge\Util;
+use Itxiao6\Wechat\Bridge\Util;
 use Doctrine\Common\Collections\ArrayCollection;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 

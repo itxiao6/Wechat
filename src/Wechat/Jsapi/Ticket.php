@@ -1,10 +1,10 @@
 <?php
 
-namespace Thenbsp\Wechat\Wechat\Jsapi;
+namespace Itxiao6\Wechat\Wechat\Jsapi;
 
-use Thenbsp\Wechat\Bridge\Http;
-use Thenbsp\Wechat\Bridge\CacheTrait;
-use Thenbsp\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Bridge\Http;
+use Itxiao6\Wechat\Bridge\CacheTrait;
+use Itxiao6\Wechat\Wechat\AccessToken;
 
 class Ticket
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Thenbsp\Wechat\Event;
+namespace Itxiao6\Wechat\Event;
 
 use Symfony\Component\HttpFoundation\Request;
 

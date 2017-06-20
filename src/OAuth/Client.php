@@ -1,6 +1,6 @@
 <?php
 
-namespace Thenbsp\Wechat\OAuth;
+namespace Itxiao6\Wechat\OAuth;
 
 class Client extends AbstractClient
 {

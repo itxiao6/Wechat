@@ -1,13 +1,13 @@
 {
-    "name": "thenbsp/wechat",
-    "description": "微信公众平台第三方 SDK 开发包，优雅、健壮，可扩展，遵循 PSR 开发规范。",
+    "name": "itxiao6/wechat",
+    "description": "MinKernel.Wechat",
     "keywords": ["wechat", "weixin", "微信", "微信 SDK", "微信支付", "微信开发", "自定义菜单"],
-    "homepage": "http://github.com/thenbsp/wechat",
+    "homepage": "http://github.com/itxiao6/wechat",
     "license": "MIT",
     "authors": [
         {
-            "name": "thenbsp",
-            "email": "thenbsp@gmail.com"
+            "name": "itxiao6",
+            "email": "itxiao6@qq.com"
         }
     ],
     "require": {
@@ -24,7 +24,7 @@
         "monolog/monolog": "^1.17"
     },
     "autoload": {
-        "psr-4": { "Thenbsp\\Wechat\\": "./src" }
+        "psr-4": { "Itxiao6\\Wechat\\": "./src" }
     },
     "minimum-stability": "dev"
 }

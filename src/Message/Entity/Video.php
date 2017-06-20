@@ -1,8 +1,8 @@
 <?php
 
-namespace Thenbsp\Wechat\Message\Entity;
+namespace Itxiao6\Wechat\Message\Entity;
 
-use Thenbsp\Wechat\Message\Entity;
+use Itxiao6\Wechat\Message\Entity;
 
 class Video extends Entity
 {

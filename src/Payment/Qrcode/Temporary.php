@@ -1,8 +1,8 @@
 <?php
 
-namespace Thenbsp\Wechat\Payment\Qrcode;
+namespace Itxiao6\Wechat\Payment\Qrcode;
 
-use Thenbsp\Wechat\Payment\Unifiedorder;
+use Itxiao6\Wechat\Payment\Unifiedorder;
 
 class Temporary
 {

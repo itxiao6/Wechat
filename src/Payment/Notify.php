@@ -1,9 +1,9 @@
 <?php
 
-namespace Thenbsp\Wechat\Payment;
+namespace Itxiao6\Wechat\Payment;
 
-use Thenbsp\Wechat\Bridge\Serializer;
-use Thenbsp\Wechat\Bridge\XmlResponse;
+use Itxiao6\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Bridge\XmlResponse;
 use Symfony\Component\HttpFoundation\Request;
 use Doctrine\Common\Collections\ArrayCollection;
 

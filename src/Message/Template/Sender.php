@@ -1,10 +1,10 @@
 <?php
 
-namespace Thenbsp\Wechat\Message\Template;
+namespace Itxiao6\Wechat\Message\Template;
 
-use Thenbsp\Wechat\Bridge\Http;
-use Thenbsp\Wechat\Bridge\Serializer;
-use Thenbsp\Wechat\Wechat\AccessToken;
+use Itxiao6\Wechat\Bridge\Http;
+use Itxiao6\Wechat\Bridge\Serializer;
+use Itxiao6\Wechat\Wechat\AccessToken;
 
 class Sender
 {

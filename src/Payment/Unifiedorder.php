@@ -1,9 +1,9 @@
 <?php
 
-namespace Thenbsp\Wechat\Payment;
+namespace Itxiao6\Wechat\Payment;
 
-use Thenbsp\Wechat\Bridge\Util;
-use Thenbsp\Wechat\Bridge\Http;
+use Itxiao6\Wechat\Bridge\Util;
+use Itxiao6\Wechat\Bridge\Http;
 use Doctrine\Common\Collections\ArrayCollection;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 
