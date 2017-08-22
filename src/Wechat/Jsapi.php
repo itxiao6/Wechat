@@ -97,7 +97,7 @@ class Jsapi
         $options = array(
             'jsapi_ticket'  => $ticket->getTicketString(),
             'timestamp'     => Util::getTimestamp(),
-            'url'           => Util::getCurrentUrl(),
+            'url'           => (isset($_POST['url']) && $_POST['url']!='') ? $_POST['url']: Util::getCurrentUrl(),
             'noncestr'      => Util::getRandomString(),
         );
 
