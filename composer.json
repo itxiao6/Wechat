@@ -1,0 +1,30 @@
+{
+    "name": "itxiao6/wechat",
+    "description": "MinKernel.Wechat",
+    "keywords": ["wechat", "weixin", "微信", "微信 SDK", "微信支付", "微信开发", "自定义菜单"],
+    "homepage": "http://github.com/itxiao6/wechat",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "itxiao6",
+            "email": "itxiao6@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "guzzlehttp/guzzle": "^6.1",
+        "doctrine/cache": "^1.6",
+        "doctrine/collections": "^1.3",
+        "symfony/serializer": "v3.0.9",
+        "symfony/options-resolver": "^3.0",
+        "symfony/property-access": "^3.0",
+        "symfony/http-foundation": "^3.0"
+    },
+    "require-dev": {
+        "monolog/monolog": "^1.17"
+    },
+    "autoload": {
+        "psr-4": { "Itxiao6\\Wechat\\": "./src" }
+    },
+    "minimum-stability": "dev"
+}
